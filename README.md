@@ -34,11 +34,4 @@ The goal of the project is to provide solutions for the modeling, rendering, ani
 
 ![](https://cdn.discordapp.com/attachments/992077049344819281/1094916697741344819/image.png)
 
-## Future features
 
-- Grass with instancing
-- Screen space ambient occlusion
-- Tesselation
-- Parallax mapping
-- Bloom, depth of field & lens flare (with HDR pipeline)
-- Blinn-Phong shading
